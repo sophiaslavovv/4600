@@ -1,5 +1,5 @@
 # EclipseProjects
-
+Github Repo Assignment - Sophia Slavov
 # Description
 This repository includes java algorithms and java projects.
 Code is self explanatory and created using core java concepts in Eclipse Editor.
